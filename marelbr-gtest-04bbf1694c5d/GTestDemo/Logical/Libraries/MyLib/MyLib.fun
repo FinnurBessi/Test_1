@@ -1,0 +1,7 @@
+
+FUNCTION pythagora_c : REAL
+	VAR_INPUT
+		a : REAL;
+		b : REAL;
+	END_VAR
+END_FUNCTION
